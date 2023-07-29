@@ -13,7 +13,4 @@
   role: Developer
   duration: 2023.04 &mdash; 2023.11(expected)
   # url: "#"
-  description: For RecSys in Music, Our goal is to develop a music recommendation system that can recommend music
-  that suits the user's taste by using the user's listening history and music features.
-  But how to use the data? Is it possible to use the data as it is?
-  We'll find the way how to preprocess data and make the results better.
+  description: For RecSys in Music, Our goal is to develop a music recommendation system that can recommend music that suits the user's taste by using the user's listening history and music features. But how to use the data? Is it possible to use the data as it is? We'll find the way how to preprocess data and make the results better.
