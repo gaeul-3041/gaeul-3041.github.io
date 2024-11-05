@@ -13,4 +13,4 @@
   role: Developer
   duration: 2023.04 &mdash; 2023.11
   # url: "#"
-  description: For RecSys in Music, Our goal is to develop a music recommendation system that can recommend music that suits the user's taste by using the user's listening history and music features.
+  description: For RecSys in Music, Personalization is one of the most important feature. In this project, My team compared the effectiveness of data preprocess methods for music recommendation system in Content Based Filtering, and visualized the results using website made by Django.
