@@ -4,19 +4,19 @@
 # Data Science Study
 - project: Power Usage & Peak Prediction for the Shipbuilding Industry
   role: Member
-  duration: 2023.03 &mdash; 2023.07
+  duration: Mar, 2023 &mdash; Jul, 2023
   # url: "#"
   description: My first project as ML Engineer was about predicting the peak of multivariate time series data. I used many ML/DL models like XGBoost, LSTM, GRU, and Transformer, to predict the peak of the data and compare the results. The project was done in collaboration with a professor and peer students on my 7th semester.
 
 # Graduation Assignment
 - project: Graduation Assignment
   role: Team Leader
-  duration: 2023.04 &mdash; 2023.11
+  duration: Apr, 2023 &mdash; Nov, 2023
   url: 'https://github.com/pnucse-capstone/capstone-2023-1-21'
   description: Personalization is one of the most sought-after features in the recent music RecSys. In this project, we compared the effectiveness of data preprocess methods for music RecSys based on Content-Based Filtering, and visualized the results on website using Django.
 
 - project: AIVLE School Big Project
   role: Developer
-  duration: 2025.01 &mdash; 2025.02 (Expected)
+  duration: Jan, 2025 &mdash; Feb, 2025 (Expected)
   # url: "#"
   description: Not Started Yet
