@@ -13,8 +13,7 @@
   role: Team Leader
   duration: 2023.04 &mdash; 2023.11
   url: 'https://github.com/pnucse-capstone/capstone-2023-1-21'
-  description: For RecSys in Music, Personalization is one of the most important feature. In this project, My team compared the effectiveness of data preprocess methods for music recommendation system in Content Based Filtering, and visualized the results using website made by Django.
-
+  description: Personalization is one of the most sought-after features in the recent music RecSys. In this project, we compared the effectiveness of data preprocess methods for music RecSys based on Content-Based Filtering, and visualized the results on website using Django.
 
 - project: AIVLE School Big Project
   role: Developer
