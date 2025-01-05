@@ -16,7 +16,7 @@
   description: Personalization is one of the most sought-after features in the recent music RecSys. In this project, we compared the effectiveness of data preprocess methods for music RecSys based on Content-Based Filtering, and visualized the results on website using Django.
 
 - project: AIVLE School Big Project
-  role: Developer
-  duration: Jan, 2025 &mdash; Feb, 2025 (Expected)
+  role: Team Leader
+  duration: Jan, 2025 &mdash; Feb, 2025
   # url: "#"
-  description: Not Started Yet
+  description: Our team's goal is to produce an AI model that creates a webtoon-style ad based on the novel.
