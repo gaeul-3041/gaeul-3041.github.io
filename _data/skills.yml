@@ -1,7 +1,11 @@
 # Skills
 # Python
 - skill: Python
-  description: My first tutorial into Python was 2018. Since then, from Programming test to AI based projects, Python was my best tool for developing program.
+  description: My first tutorial into Python was 2018. Since then, from Programming test to AI based projects, Python has been my main language. I've used Python for web development, data analysis, and ML/DL projects.
+- skill: Spring
+  description: I've used Spring Boot, Spring MVC, Spring Data JPA, Spring Security, and Spring Cloud to develop my web project.
+- skill: Azure
+  description: I usually use Azure for deploying my web applications.
 
 # ML & DL
 - skill: Machine Learning & Deep Learning

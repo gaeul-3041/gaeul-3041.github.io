@@ -18,5 +18,5 @@
 - project: AIVLE School Big Project
   role: Team Leader
   duration: Jan, 2025 &mdash; Feb, 2025
-  # url: "#"
-  description: Our team's goal is to produce an AI model that creates a webtoon-style ad based on the novel.
+  url: 'https://github.com/kt-aivle-bigproject28'
+  description: Our team's goal is to produce an AI model that creates a webtoon-style ad based on the novel. The only thing you need is just upload your txt or pdf file based novel, and our AI model will automatically generate a webtoon-style ad for you. For our clients, we provide a web service that allows you to use our newest model with Azure cloud service.
