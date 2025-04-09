@@ -1,13 +1,6 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# Data Science Study
-- project: Power Usage & Peak Prediction for the Shipbuilding Industry
-  role: Member
-  duration: Mar, 2023 &mdash; Jul, 2023
-  # url: "#"
-  description: My first project as ML Engineer was about predicting the peak of multivariate time series data. I used many ML/DL models like XGBoost, LSTM, GRU, and Transformer, to predict the peak of the data and compare the results. The project was done in collaboration with a professor and peer students on my 7th semester.
-
 # Graduation Assignment
 - project: Graduation Assignment
   role: Team Leader
@@ -15,8 +8,9 @@
   url: 'https://github.com/pnucse-capstone/capstone-2023-1-21'
   description: Personalization is one of the most sought-after features in the recent music RecSys. In this project, we compared the effectiveness of data preprocess methods for music RecSys based on Content-Based Filtering, and visualized the results on website using Django.
 
+# AIVLE School Big Project
 - project: AIVLE School Big Project
   role: Team Leader
   duration: Jan, 2025 &mdash; Feb, 2025
-  url: 'https://github.com/kt-aivle-bigproject28'
+  url: 'https://github.com/gaeul-3041/Fiction2Toon'
   description: Our team's goal is to produce an AI model that creates a webtoon-style ad based on the novel. The only thing you need is just upload your txt or pdf file based novel, and our AI model will automatically generate a webtoon-style ad for you. For our clients, we provide a web service that allows you to use our newest model with Azure cloud service.
